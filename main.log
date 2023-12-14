@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2023.12.14)  14 DEC 2023 09:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2023.12.14)  14 DEC 2023 09:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -273,7 +273,31 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 \Gin@req@height=\dimen171
 \Gin@req@width=\dimen172
-) [1
+)
+
+c:/Projetos/Pessoal/UEM/sistemaDeCoordenadas/main.tex:11: LaTeX Error: No \title given.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 \maketitle
+               
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 11.
+(C:\Users\muniz\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 11.
+ (C:\Users\muniz\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+
+LaTeX Warning: No \author given.
+
+[1
 
 {C:/Users/muniz/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (main.aux)
  ***********
@@ -282,17 +306,17 @@ L3 programming layer <2023-08-29>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 5038 strings out of 475248
- 79230 string characters out of 5757812
- 1917785 words of memory out of 5000000
- 26530 multiletter control sequences out of 15000+600000
- 559131 words of font info for 38 fonts, out of 8000000 for 9000
+ 5085 strings out of 475248
+ 80102 string characters out of 5757812
+ 1918785 words of memory out of 5000000
+ 26561 multiletter control sequences out of 15000+600000
+ 564815 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 65i,5n,72p,266b,137s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\muniz\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk>
-Output written on main.pdf (1 page, 6294 bytes).
+ 65i,6n,72p,266b,216s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\muniz\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\muniz\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1728.pk> <C:\Users\muniz\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk>
+Output written on main.pdf (1 page, 17902 bytes).
 PDF statistics:
- 25 PDF objects out of 1000 (max. 8388607)
+ 61 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
